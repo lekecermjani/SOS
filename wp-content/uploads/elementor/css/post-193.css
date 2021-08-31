@@ -1,0 +1,22 @@
+.elementor-193 .elementor-element.elementor-element-25e0eea5 > .elementor-container{min-height:380px;}.elementor-193 .elementor-element.elementor-element-2839f6fc > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-193 .elementor-element.elementor-element-ffdd3d3 img{border-radius:0px 0px 0100px 0px;}.elementor-193 .elementor-element.elementor-element-31b1235{text-align:center;}.elementor-193 .elementor-element.elementor-element-31b1235 .elementor-heading-title{font-family:"AktivGrotesk", Sans-serif;font-size:16px;font-weight:500;}.elementor-193 .elementor-element.elementor-element-ddad6db{text-align:center;}.elementor-193 .elementor-element.elementor-element-ddad6db .elementor-heading-title{font-family:"AktivGrotesk", Sans-serif;font-size:14px;font-weight:500;font-style:italic;}.elementor-bc-flex-widget .elementor-193 .elementor-element.elementor-element-6a2b8a81.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-193 .elementor-element.elementor-element-6a2b8a81.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-193 .elementor-element.elementor-element-6a2b8a81 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:5px;}.elementor-193 .elementor-element.elementor-element-6a2b8a81 > .elementor-element-populated{padding:30px 30px 30px 30px;}.elementor-193 .elementor-element.elementor-element-c45833b{color:var( --e-global-color-secondary );font-family:"AktivGrotesk", Sans-serif;font-size:17px;font-weight:500;}#elementor-popup-modal-193 .dialog-message{width:800px;height:480px;align-items:flex-start;}#elementor-popup-modal-193{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-193 .dialog-close-button{display:block;}#elementor-popup-modal-193 .dialog-widget-content{animation-duration:1.4s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){#elementor-popup-modal-193 .dialog-message{width:700px;height:425px;}#elementor-popup-modal-193 .dialog-widget-content{margin:0px 0px 0px 0px;}}@media(max-width:767px){#elementor-popup-modal-193 .dialog-message{height:100vh;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'AktivGrotesk';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost:8888/SOS/wp-content/uploads/2021/08/AktivGrotesk_Rg.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'AktivGrotesk';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost:8888/SOS/wp-content/uploads/2021/08/AktivGrotesk_Md.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'AktivGrotesk';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost:8888/SOS/wp-content/uploads/2021/08/AktivGrotesk_Bd.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
